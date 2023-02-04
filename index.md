@@ -45,7 +45,13 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
   
   <div class="flourish-embed flourish-chart" data-src="visualisation/12576200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
+## 4. Evolution des consommations d'energie primaire en France de 1990 à 2021 (DataWrapper)
   
+  Avec L'outils DataWrapper nous avons fait un diagrame pour voir l'évolution de la consomation d'energie primaire en france et nous constaté que l'utilisation du Charbon et de l'energie renuveleable reste trés faible durant ces 2O ans tandisque que l'electricité atteint son pic en 2015. Ceci dit nous pouvons aussi constater que vers les années 2010 une baisse de consommation du a la crise pétroliere.  
+  
+  <title> Exercice Analyse des données sur datawrapper </title>
+    <iframe title="Evolution des 20 dernieres années de consommation primaire énergie en France" aria-label="Interactive line chart" id="datawrapper-chart-aCD6a" src="https://datawrapper.dwcdn.net/aCD6a/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="673" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+    </script>
   
   
   
