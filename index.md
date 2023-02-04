@@ -38,3 +38,17 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
   <iframe title="La consommation d'energie par région Francaises" aria-label="Map" id="datawrapper-chart-RIQxz" src="https://datawrapper.dwcdn.net/RIQxz/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="622" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
   
+## 3. Evolution de la consommation d'energie dans le Centre De VAl de Loire (Flourish)
+  
+  Avec l'outils Flourish nous avons analyser l'évolution de la Region du Centre Val de Loire entre 2018 et 2021 pour faire une analyse proportionel entre les années.
+  Nous avons utilisés Pie Chart qui nous permis d'avoir une visualisation dynamique par années mais aussi par energie le plus plus utilisé par cette région.
+  
+  <div class="flourish-embed flourish-chart" data-src="visualisation/12576200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  
+  
+  
+  
+  
+  
+  
+  
