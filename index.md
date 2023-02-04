@@ -15,7 +15,7 @@ Les jeux de données utilisés afin d’étudier la consommation d'energie en fr
 ### Jeu de données sur Data.gouv.fr 
 >[Significant consommation annuelle de gaz et d'electricité par Region et par code NAF](https://www.data.gouv.fr/fr/datasets/consommation-annuelle-delectricite-et-gaz-par-region-et-par-code-naf/#description)
 
-Ce jeu de donnée permet de visualiser l’évolution de 2011 à 2021 des consommations d'électricité et de gaz par secteur d'activité, par catégorie de consommation, par code NAF et par région. Nous avons décidé de supprimé manuellement beaucoup de collone car étant un jeux de donnée trés lourd avec plus de 18000 lignes. Nous avons aussi utilisé Openrifine pour en extraire une partie donnée notament sur la région du Centre de val loire pour en faire un visuel.
+Ce jeu de donnée permet de visualiser l’évolution de 2011 à 2021 des consommations d'électricité et de gaz par secteur d'activité, par catégorie de consommation, par code NAF et par région. Nous avons décidé de supprimé manuellement beaucoup de collone car étant un jeux de donnée trés lourd avec plus de 18000 lignes. Nous avons décidé d'enlevé les région comme  Guadeloupe, Reunion, Martinique car ayant des code de departement avec (02 ou 04) le fichier ne prends pas en compte le zéro et affiche toujours erreur. Nous avons donc travailler sans ces régions que nous venont de citer. Nous avons aussi utilisé Openrifine pour en extraire une partie donnée notament sur la région du Centre de val loire pour en faire un visuel.
 ###Extrait des données finales (DataWrapper)
 
 <iframe title="Consommation annuelle d’électricité et gaz sur la région du Centre Val De Loire." aria-label="Table" id="datawrapper-chart-FfLRt" src="https://datawrapper.dwcdn.net/FfLRt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1300" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -31,4 +31,10 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
 {if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
   </script>
 
+## 2. Carte des consommations d'energie de la France par Région (DataWrapper)
+  
+  La consommation d'energie des regions de France est varié nous pouvons voir sur cette carte que les régions comme Bretagne, Normandie, Hat DeFrance et Centre De Val de Loire sont les pricipaux consommateurs d'energie en France. Ceci est expliquer par le fait "qu’elles sont aussi les plus équipées en chaudières électriques" Selon des études statistiques et sur nos analyses "les régions du Centre-Val de Loire", qui ont consommé le plus d'électricité en 2021. 
+  
+  <iframe title="La consommation d'energie par région Francaises" aria-label="Map" id="datawrapper-chart-RIQxz" src="https://datawrapper.dwcdn.net/RIQxz/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="622" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
   
