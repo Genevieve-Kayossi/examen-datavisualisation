@@ -56,7 +56,6 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
 ## 5. Evolution de la consommation par catégorie dans le Centre Val-De-Loire
   
   <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12679303"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-  
 ## Conclusion
   
   
