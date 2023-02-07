@@ -1,7 +1,9 @@
 @@ -17,7 +17,7 @@
 
 # Projet de datavisualisation: La consommation d'energie en France
-( Image illustratif a mettre)
+
+![arrondissement de paris] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.admagazine.fr%2Fadactualites%2Farticle%2Ftour-eiffel-devrait-eteindre-lumiere-ce-quil-faut-savoir&psig=AOvVaw02btgCTi9uDg9isMLTEVXz&ust=1675892554168000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjr3LSwhP0CFQAAAAAdAAAAABAS)
+
 
 Comprendre et analyser la structure de la consommation d’énergie est indispensable afin de bien identifier les enjeux liés à la transition énergétique et les secteurs à cibler dans le cadre d’une stratégie bas carbone. Il s’avère que le pétrole est l’énergie la plus consommée en France (42 % de l’énergie totale consommée), principalement pour un usage de transport et de chauffage.
 
@@ -64,6 +66,7 @@ Nous avons utilisé Flourish pour faire un packed circle qui montre les types de
   
 
 Le sujet que nous avons choisi est un sujet d'actualité de la France. Il eté important pour moi de voir l'evolution de la consommation d'energie de la France avant 2022 ou on ne parle que de politique de sobriété avec des coupures d'electricité dans certains secteur. Grace a la datavisualisation nous avons pu voir les villes qui consomment le plus d'energie.
+  
 En sommes nous pouvons dire que la datavisualisation est d'une importance capitale dans la mesure ou elle permet à simplifier la lecture et la compréhension de données complexes en les imageant.Il faut considerer la datavisualisation comme un outil efficient et efficace de communication. Parce que cette méthode est ergonomique, simple et fonctionnelle, elle est percutante. En effet nous avons avec notre jeux de données fais sortir plusieurs informations sur la consommation d'energie en France. Sans la datavisualisation des données ces deux jeux de données seront tres penible a lire et à comprendre. 
   
 Ceci dit nous avons eu beaucoup de difficultés pour finir ce projet notament pour faire le sanity check mais aussi pour faire des visuels parlant et qui répondent à nos questions surtout avec Flourish ou on devait modifier nos données ou encore le retravailler pour avoir un visuel.
