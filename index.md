@@ -10,7 +10,13 @@ Comprendre et analyser la structure de la consommation d’énergie est indispen
 
 
 # Sommaire
-(a definir)
+1. [ Acquision et traitement des données sur la consomation d'énergie en France](#1- Acquision et traitement des données sur la consomation d'énergie en France)
+2. [Carte des consommations d'énergie de la France par Région (DataWrapper)](#2-Carte des consommations d'énergie de la France par Région (DataWrapper))
+3. [Evolution de la consommation d'energie dans le Centre De Val de Loire (Flourish)](#3-Evolution de la consommation d'energie dans le Centre De Val-De-Loire (Flourish))
+4. [Evolution de la consommation par catégorie dans le Centre Val-De-Loire (Flourish)](#4-Evolution de la consommation par catégorie dans le Centre Val-De-Loire (Flourish))
+5. [Evolution des consommations d'energie primaire en France de 1990 à 2021 (DataWrapper)](#5-Evolution des consommations d'energie primaire en France de 1990 à 2021 (DataWrapper))
+6. [Conclusion](#6-Conclusion)
+
 
 ## 1. Acquision et traitement des données sur la consomation d'énergie en France
 
@@ -42,7 +48,7 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
   <iframe title="La consommation d'energie par région Francaises" aria-label="Map" id="datawrapper-chart-RIQxz" src="https://datawrapper.dwcdn.net/RIQxz/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="622" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
   
-## 3. Evolution de la consommation d'energie dans le Centre De VAl de Loire (Flourish)
+## 3. Evolution de la consommation d'energie dans le Centre De Val-De-Loire (Flourish)
   
   Avec l'outils Flourish nous avons analyser l'évolution de la Region du Centre Val de Loire entre 2018 et 2021 pour faire une analyse proportionel entre les années.
   Nous avons utilisés Pie Chart qui nous permis d'avoir une visualisation dynamique par années mais aussi par energie le plus plus utilisé par cette région.
@@ -69,7 +75,7 @@ Nous avons utilisé Flourish pour faire un packed circle qui montre les types de
 ## Conclusion
   
 
-Le sujet que nous avons choisi est un sujet d'actualité de la France. Il eté important pour moi de voir l'evolution de la consommation d'energie de la France avant 2022 ou on ne parle que de politique de sobriété avec des coupures d'electricité dans certains secteur. Grace a la datavisualisation nous avons pu voir les villes qui consomment le plus d'energie.
+Le sujet que nous avons choisi est un sujet d'actualité de la France. Il était important pour moi de voir l'évolution de la consommation d'énergie de la France avant 2022 ou on ne parle que de politique de sobriété avec des coupures d'électricité un peu partout dans le pays. Grace à la datavisualisation nous avons pu voir les villes qui consomment le plus d'énergie mais aussi l'évolution de la consommation d'énergie dans dans les régions.
   
 En sommes nous pouvons dire que la datavisualisation est d'une importance capitale dans la mesure ou elle permet à simplifier la lecture et la compréhension de données complexes en les imageant.Il faut considerer la datavisualisation comme un outil efficient et efficace de communication. Parce que cette méthode est ergonomique, simple et fonctionnelle, elle est percutante. En effet nous avons avec notre jeux de données fais sortir plusieurs informations sur la consommation d'energie en France. Sans la datavisualisation des données ces deux jeux de données seront tres penible a lire et à comprendre. 
   
