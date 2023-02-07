@@ -1,7 +1,7 @@
 
 
 
-# Projet de datavisualisation: La consommation d'energie en France
+# Projet de datavisualisation: La consommation d'énergie en France
 
 ![Politique de sobriété](https://media.admagazine.fr/photos/632449f823ec612145384d66/master/w_1600%2Cc_limit/GettyImages-98180138.jpg)
 
