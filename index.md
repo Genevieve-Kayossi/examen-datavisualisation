@@ -2,8 +2,7 @@
 
 # Projet de datavisualisation: La consommation d'energie en France
 
-![arrondissement de paris] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.admagazine.fr%2Fadactualites%2Farticle%2Ftour-eiffel-devrait-eteindre-lumiere-ce-quil-faut-savoir&psig=AOvVaw02btgCTi9uDg9isMLTEVXz&ust=1675892554168000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjr3LSwhP0CFQAAAAAdAAAAABAS)
-
+![Politique de sobriété](https://media.admagazine.fr/photos/632449f823ec612145384d66/master/w_1600%2Cc_limit/GettyImages-98180138.jpg)
 
 Comprendre et analyser la structure de la consommation d’énergie est indispensable afin de bien identifier les enjeux liés à la transition énergétique et les secteurs à cibler dans le cadre d’une stratégie bas carbone. Il s’avère que le pétrole est l’énergie la plus consommée en France (42 % de l’énergie totale consommée), principalement pour un usage de transport et de chauffage.
 
