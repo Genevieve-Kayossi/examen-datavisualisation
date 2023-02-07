@@ -53,9 +53,18 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
 </script>
   
   
-## 5. Evolution de la consommation par catégorie dans le Centre Val-De-Loire
+## 5. Evolution de la consommation par catégorie dans le Centre Val-De-Loire (Flourish)
+  
+Nous avons utilisé Flourish pour faire un packed circle qui montre les types de consommation dans le centre Val-De-Loire. Sur le visuel il est possible de faire des filtres et voir l'évolution par année. Par exemple pour l'année 2021 nous pouvons constaté que les entreprises et résidences sont les consommateurs principales de gaz et d'electricité dans le Centre Val-De-Loire.
   
   <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12679303"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  
+  
 ## Conclusion
   
+
+Le sujet que nous avons choisi est un sujet d'actualité de la France. Il eté important pour moi de voir l'evolution de la consommation d'energie de la France avant 2022 ou on ne parle que de politique de sobriété avec des coupures d'electricité dans certains secteur. Grace a la datavisualisation nous avons pu voir les villes qui consomment le plus d'energie.
+En sommes nous pouvons dire que la datavisualisation est d'une importance capitale dans la mesure ou elle permet à simplifier la lecture et la compréhension de données complexes en les imageant.Il faut considerer la datavisualisation comme un outil efficient et efficace de communication. Parce que cette méthode est ergonomique, simple et fonctionnelle, elle est percutante. En effet nous avons avec notre jeux de données fais sortir plusieurs informations sur la consommation d'energie en France. Sans la datavisualisation des données ces deux jeux de données seront tres penible a lire et à comprendre. 
   
+Ceci dit nous avons eu beaucoup de difficultés pour finir ce projet notament pour faire le sanity check mais aussi pour faire des visuels parlant et qui répondent à nos questions surtout avec Flourish ou on devait modifier nos données ou encore le retravailler pour avoir un visuel.
+Avec WikiData malheuresement nous n'avons pas eu la possibilité de trouver une requete qui illustre notre théme d'analyse.
