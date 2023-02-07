@@ -1,15 +1,18 @@
 
 
+
 # Projet de datavisualisation: La consommation d'energie en France
 
 ![Politique de sobriété](https://media.admagazine.fr/photos/632449f823ec612145384d66/master/w_1600%2Cc_limit/GettyImages-98180138.jpg)
 
 Comprendre et analyser la structure de la consommation d’énergie est indispensable afin de bien identifier les enjeux liés à la transition énergétique et les secteurs à cibler dans le cadre d’une stratégie bas carbone. Il s’avère que le pétrole est l’énergie la plus consommée en France (42 % de l’énergie totale consommée), principalement pour un usage de transport et de chauffage.
 
+
+
 # Sommaire
 (a definir)
 
-## 1. Acquision et traitement des données sur la consomation d'energie en France
+## 1. Acquision et traitement des données sur la consomation d'énergie en France
 
 Les jeux de données utilisés afin d’étudier la consommation d'energie en france se trouve respectivement sur Data.gouv.fr et OpenDataSoft.fr
 
@@ -32,7 +35,7 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
 {if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
   </script>
 
-## 2. Carte des consommations d'energie de la France par Région (DataWrapper)
+## 2. Carte des consommations d'énergie de la France par Région (DataWrapper)
   
   La consommation d'energie des regions de France est varié nous pouvons voir sur cette carte que les régions comme Bretagne, Normandie, Hat DeFrance et Centre De Val de Loire sont les pricipaux consommateurs d'energie en France. Ceci est expliquer par le fait "qu’elles sont aussi les plus équipées en chaudières électriques" Selon des études statistiques et sur nos analyses "les régions du Centre-Val de Loire", qui ont consommé le plus d'électricité en 2021. 
   
@@ -46,19 +49,21 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
   
   <div class="flourish-embed flourish-chart" data-src="visualisation/12576200"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
-## 4. Evolution des consommations d'energie primaire en France de 1990 à 2021 (DataWrapper)
+## 4. Evolution de la consommation par catégorie dans le Centre Val-De-Loire (Flourish)
+  
+Nous avons utilisé Flourish pour faire un packed circle qui montre les types de consommation dans le centre Val-De-Loire. Sur le visuel il est possible de faire des filtres et voir l'évolution par année. Par exemple pour l'année 2021 nous pouvons constaté que les entreprises et résidences sont les consommateurs principales de gaz et d'electricité dans le Centre Val-De-Loire.
+  
+  <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12679303"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  
+  
+ 
+  
+## 5.  Evolution des consommations d'energie primaire en France de 1990 à 2021 (DataWrapper)
   
   Avec L'outils DataWrapper nous avons fait un diagrame pour voir l'évolution de la consomation d'energie primaire en france et nous constaté que l'utilisation du Charbon et de l'energie renuveleable reste trés faible durant ces 2O ans tandisque que l'electricité atteint son pic en 2015. Ceci dit nous pouvons aussi constater que vers les années 2010 une baisse de consommation du a la crise pétroliere.  
   
   <iframe title="Evolution des 20 dernieres années de consommation primaire énergie en France" aria-label="Interactive line chart" id="datawrapper-chart-aCD6a" src="https://datawrapper.dwcdn.net/aCD6a/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="673" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
-  
-  
-## 5. Evolution de la consommation par catégorie dans le Centre Val-De-Loire (Flourish)
-  
-Nous avons utilisé Flourish pour faire un packed circle qui montre les types de consommation dans le centre Val-De-Loire. Sur le visuel il est possible de faire des filtres et voir l'évolution par année. Par exemple pour l'année 2021 nous pouvons constaté que les entreprises et résidences sont les consommateurs principales de gaz et d'electricité dans le Centre Val-De-Loire.
-  
-  <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12679303"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
 ## Conclusion
