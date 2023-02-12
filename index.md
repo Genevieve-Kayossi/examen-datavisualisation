@@ -58,7 +58,7 @@ En premier lieu nous avons fait un sanity check avec WTF csv pour voir si notre 
   
 ## 4. Evolution de la consommation par catégorie dans le Centre Val-De-Loire (Flourish)
   
-Nous avons utilisé Flourish pour faire un packed circle qui montre les types de consommation dans la région du centre Val-De-Loire. Sur la visualisation il est possible de faire des filtres et voir l'évolution par année. Par exemple pour l'année 2021 nous pouvons constaté que les entreprises et résidences sont les consommateurs principales de gaz et d'electricité dans le Centre Val-De-Loire.
+Nous avons utilisé Flourish pour faire un packed circle qui montre les types de consommation dans la région du centre Val-De-Loire. Sur la visualisation il est possible de faire des filtres et voir l'évolution par année. Comme par exemple pour l'année 2021 nous pouvons constaté que les entreprises et résidences sont les consommateurs principales de gaz et d'electricité dans le Centre Val-De-Loire.
   
   <div class="flourish-embed flourish-hierarchy" data-src="visualisation/12679303"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
